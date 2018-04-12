@@ -1,0 +1,35 @@
+-------------------
+input chars = 
+his eyes she eclipses and predominates the whole of her sex. it was not that he felt any emotion aki"
+predicted chars = 
+ng to to me it in the pased and come and there and the office and the matter will to see him with a "
+-------------------
+input chars = 
+eyes she eclipses and predominates the whole of her sex. it was not that he felt any emotion akin to"
+predicted chars = 
+ the steer. i smould be the string of made of the lady of before i good ther? he would be to spent a"
+-------------------
+input chars = 
+she eclipses and predominates the whole of her sex. it was not that he felt any emotion akin to love"
+predicted chars = 
+ i mates a sight of the matter business as a little flom has we have ever heard of the day, and then"
+-------------------
+input chars = 
+he eclipses and predominates the whole of her sex. it was not that he felt any emotion akin to love "
+predicted chars = 
+i mates a sight of the matter business as a little flom has we have ever heard of the day, and then "
+-------------------
+input chars = 
+clipses and predominates the whole of her sex. it was not that he felt any emotion akin to love for "
+predicted chars = 
+the reather was a countly dident as the passion of the lady and lat let laid of my reacher and a gai"
+-------------------
+input chars = 
+es and predominates the whole of her sex. it was not that he felt any emotion akin to love for irene"
+predicted chars = 
+ it. there was only a for that there was no marre from the contunion to it wassing in the pastar. th"
+-------------------
+input chars = 
+s and predominates the whole of her sex. it was not that he felt any emotion akin to love for irene "
+predicted chars = 
+it. there was only a for that there was no marre from the contunion to it wassing in the pastar. the"
